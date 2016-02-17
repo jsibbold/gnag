@@ -13,9 +13,14 @@
  * License for the specific language governing permissions and limitations
  * under the License.
  */
-public class Main {
+public class PMDViolations {
 
-    public static void main(String[] args) {
+    private PMDViolations() {
+        try {
 
+        } catch (Exception e) {
+
+        }
     }
+
 }
